@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+<div class="container">
+    <div id="info-scrap">
+        <h1 class="fs-2 mt-2 fw-normal">Web Scraping Fútbol</h1>
+        <p class="lead">Valor de mercado de los jugadores más valiosos</p>
+        <p class="lead">
+            <a class="btn btn-success" onclick="GetReporte()" role="button">Obtener Gráfica »</a>
+        </p>
+    </div>
+    <div class="chartWrapper d-none">
+        <div class="chartAreaWrapper">
+            <canvas id="chartReport" height="1200"></canvas>
+        </div>
+    </div>
+    <div class="m-4 d-flex justify-content-center align-items-center">
+        <div class="h-auto p-4">
+            <div class="loading text-center d-none">
+                <img src="gif/loader.gif" alt="loading" />
+                <p class="mt-2">Extrayendo información de la web: <a class="text-decoration-none" href="https://www.transfermarkt.es/spieler-statistik/wertvollstespieler/marktwertetop" target="_blank">Transfermarkt</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

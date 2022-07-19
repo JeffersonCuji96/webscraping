@@ -1,0 +1,7 @@
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\Graficas.exe
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\Graficas.dll
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\Graficas.deps.json
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\Graficas.runtimeconfig.json
+C:\Users\renem\source\repos\ScrapingGraficas\Graficas\Graficas\obj\Release\net6.0\PubTmp\Out\Graficas.pdb
