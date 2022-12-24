@@ -3,7 +3,7 @@ Sistema que extrae los datos de una página web sobre los jugadores actuales má
 
 ## Demostración
 
-Para revisar la demo del proyecto debe ingresar al sitio web: https://graficascraping.azurewebsites.net/
+Para revisar la demo del proyecto debe ingresar al sitio web: https://webscrapingfutbol.azurewebsites.net/
     
 ## Vista previa
 
