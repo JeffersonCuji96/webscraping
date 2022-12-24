@@ -1,5 +1,5 @@
 # WebScraping
-Sistema que extrae los datos de una página web sobre los jugadores actuales más valiosos en el mercado, generando un reporte gráfico de barras usando esa información. Para el scrapeo se utiliza la librería ScrapySharp y HtmlAgilityPack en C#. Y para el gráfico de barras la librería Chart.js
+El sistema extrae información actual sobre el valor de mercado más alto de los jugadores de futbol, para posteriormente generar un reporte gráfico de barras usando dicha información. Al pasar el cursor sobre la barra de un jugador se muestra el valor de mercado, la posición, el club de futbol al que pertenece y la edad. Todo eso y más, se obtiene de "Transfermarkt", un sitio web que tiene puntuaciones, resultados, noticias de transferencias, calendarios de liga, y valores de jugadores. Información del mundo del fútbol. El proyecto está realizado en Asp.Net MVC y para lograr el scrapeo de los datos, se utilizó la librería ScrapySharp y HtmlAgilityPack en C#.
 
 ## Demostración
 
