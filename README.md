@@ -3,7 +3,7 @@ El sistema extrae información actual sobre el valor de mercado más alto de los
 
 ## Demostración
 
-Para revisar la demo del proyecto debe ingresar al sitio web: https://webscrapingfutbol.azurewebsites.net/
+Para revisar la demo del proyecto debe ingresar al sitio web: https://scrapingfutbolweb.azurewebsites.net/
     
 ## Vista previa
 
